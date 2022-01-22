@@ -1,236 +1,237 @@
-#EXTINF:-1 tvg-id="" tvg-name="EX-YU | RTS HD" tvg-logo="" group-title="EX-YU",EX-YU | RTS HD
-http://hellenic.live:8080/Basilis/Basilis1/97378.ts
-#EXTINF:-1 tvg-id="" tvg-name="EX-YU | RTS 1" tvg-logo="" group-title="EX-YU",EX-YU | RTS 1
-http://hellenic.live:8080/Basilis/Basilis1/97377.ts
-#EXTINF:-1 tvg-id="" tvg-name="EX-YU | RTS 2" tvg-logo="" group-title="EX-YU",EX-YU | RTS 2
-http://hellenic.live:8080/Basilis/Basilis1/97376.ts
-#EXTINF:-1 tvg-id="" tvg-name="EX-YU | Prva" tvg-logo="" group-title="EX-YU",EX-YU | Prva
-http://hellenic.live:8080/Basilis/Basilis1/97375.ts
-#EXTINF:-1 tvg-id="" tvg-name="EX-YU | Prva Plus" tvg-logo="" group-title="EX-YU",EX-YU | Prva Plus
-http://hellenic.live:8080/Basilis/Basilis1/97374.ts
-#EXTINF:-1 tvg-id="" tvg-name="EX-YU | Prva Max" tvg-logo="" group-title="EX-YU",EX-YU | Prva Max
-http://hellenic.live:8080/Basilis/Basilis1/97373.ts
-#EXTINF:-1 tvg-id="" tvg-name="EX-YU | B92" tvg-logo="" group-title="EX-YU",EX-YU | B92
-http://hellenic.live:8080/Basilis/Basilis1/97372.ts
-#EXTINF:-1 tvg-id="" tvg-name="EX-YU | Nova RS SRB" tvg-logo="" group-title="EX-YU",EX-YU | Nova RS SRB
-http://hellenic.live:8080/Basilis/Basilis1/97371.ts
-#EXTINF:-1 tvg-id="" tvg-name="EX-YU | Parovi Uzivo" tvg-logo="" group-title="EX-YU",EX-YU | Parovi Uzivo
-http://hellenic.live:8080/Basilis/Basilis1/97370.ts
-#EXTINF:-1 tvg-id="" tvg-name="EX-YU | RTRS" tvg-logo="" group-title="EX-YU",EX-YU | RTRS
-http://hellenic.live:8080/Basilis/Basilis1/97369.ts
-#EXTINF:-1 tvg-id="" tvg-name="EX-YU | RTS Satelit" tvg-logo="" group-title="EX-YU",EX-YU | RTS Satelit
-http://hellenic.live:8080/Basilis/Basilis1/97368.ts
-#EXTINF:-1 tvg-id="" tvg-name="EX-YU | Pink" tvg-logo="" group-title="EX-YU",EX-YU | Pink
-http://hellenic.live:8080/Basilis/Basilis1/97367.ts
-#EXTINF:-1 tvg-id="" tvg-name="EX-YU | Pink 2" tvg-logo="" group-title="EX-YU",EX-YU | Pink 2
-http://hellenic.live:8080/Basilis/Basilis1/97366.ts
-#EXTINF:-1 tvg-id="" tvg-name="EX-YU | Pink 3" tvg-logo="" group-title="EX-YU",EX-YU | Pink 3
-http://hellenic.live:8080/Basilis/Basilis1/97365.ts
-#EXTINF:-1 tvg-id="" tvg-name="EX-YU | Pink BIH" tvg-logo="" group-title="EX-YU",EX-YU | Pink BIH
-http://hellenic.live:8080/Basilis/Basilis1/97364.ts
-#EXTINF:-1 tvg-id="" tvg-name="EX-YU | Pink Plus" tvg-logo="" group-title="EX-YU",EX-YU | Pink Plus
-http://hellenic.live:8080/Basilis/Basilis1/97363.ts
-#EXTINF:-1 tvg-id="" tvg-name="EX-YU | Pink Extra" tvg-logo="" group-title="EX-YU",EX-YU | Pink Extra
-http://hellenic.live:8080/Basilis/Basilis1/97362.ts
-#EXTINF:-1 tvg-id="" tvg-name="EX-YU | Pink Premium" tvg-logo="" group-title="EX-YU",EX-YU | Pink Premium
-http://hellenic.live:8080/Basilis/Basilis1/97361.ts
-#EXTINF:-1 tvg-id="" tvg-name="EX-YU | Pink Action" tvg-logo="" group-title="EX-YU",EX-YU | Pink Action
-http://hellenic.live:8080/Basilis/Basilis1/97360.ts
-#EXTINF:-1 tvg-id="" tvg-name="EX-YU | Pink Movies" tvg-logo="" group-title="EX-YU",EX-YU | Pink Movies
-http://hellenic.live:8080/Basilis/Basilis1/97359.ts
-#EXTINF:-1 tvg-id="" tvg-name="EX-YU | Pink Comedy" tvg-logo="" group-title="EX-YU",EX-YU | Pink Comedy
-http://hellenic.live:8080/Basilis/Basilis1/97358.ts
-#EXTINF:-1 tvg-id="" tvg-name="EX-YU | Pink Crime & Mystery" tvg-logo="" group-title="EX-YU",EX-YU | Pink Crime & Mystery
-http://hellenic.live:8080/Basilis/Basilis1/97357.ts
-#EXTINF:-1 tvg-id="" tvg-name="EX-YU | Pink Film" tvg-logo="" group-title="EX-YU",EX-YU | Pink Film
-http://hellenic.live:8080/Basilis/Basilis1/97356.ts
-#EXTINF:-1 tvg-id="" tvg-name="EX-YU | Pink Horor" tvg-logo="" group-title="EX-YU",EX-YU | Pink Horor
-http://hellenic.live:8080/Basilis/Basilis1/97355.ts
-#EXTINF:-1 tvg-id="" tvg-name="EX-YU | Pink Serije" tvg-logo="" group-title="EX-YU",EX-YU | Pink Serije
-http://hellenic.live:8080/Basilis/Basilis1/97354.ts
-#EXTINF:-1 tvg-id="" tvg-name="EX-YU | Pink Reality" tvg-logo="" group-title="EX-YU",EX-YU | Pink Reality
-http://hellenic.live:8080/Basilis/Basilis1/97353.ts
-#EXTINF:-1 tvg-id="" tvg-name="EX-YU | Pink Romance" tvg-logo="" group-title="EX-YU",EX-YU | Pink Romance
-http://hellenic.live:8080/Basilis/Basilis1/97352.ts
-#EXTINF:-1 tvg-id="" tvg-name="EX-YU | Pink Sci Fi & Fantasy" tvg-logo="" group-title="EX-YU",EX-YU | Pink Sci Fi & Fantasy
-http://hellenic.live:8080/Basilis/Basilis1/97351.ts
-#EXTINF:-1 tvg-id="" tvg-name="EX-YU | Pink Family" tvg-logo="" group-title="EX-YU",EX-YU | Pink Family
-http://hellenic.live:8080/Basilis/Basilis1/97350.ts
-#EXTINF:-1 tvg-id="" tvg-name="EX-YU | Pink Soap" tvg-logo="" group-title="EX-YU",EX-YU | Pink Soap
-http://hellenic.live:8080/Basilis/Basilis1/97349.ts
-#EXTINF:-1 tvg-id="" tvg-name="EX-YU | Pink Thriler" tvg-logo="" group-title="EX-YU",EX-YU | Pink Thriler
-http://hellenic.live:8080/Basilis/Basilis1/97348.ts
-#EXTINF:-1 tvg-id="" tvg-name="EX-YU | Pink Westrern" tvg-logo="" group-title="EX-YU",EX-YU | Pink Westrern
-http://hellenic.live:8080/Basilis/Basilis1/97347.ts
-#EXTINF:-1 tvg-id="" tvg-name="EX-YU | Pink World" tvg-logo="" group-title="EX-YU",EX-YU | Pink World
-http://hellenic.live:8080/Basilis/Basilis1/97346.ts
-#EXTINF:-1 tvg-id="" tvg-name="EX-YU | Pink Classic" tvg-logo="" group-title="EX-YU",EX-YU | Pink Classic
-http://hellenic.live:8080/Basilis/Basilis1/97345.ts
-#EXTINF:-1 tvg-id="" tvg-name="EX-YU | Pink HaHa" tvg-logo="" group-title="EX-YU",EX-YU | Pink HaHa
-http://hellenic.live:8080/Basilis/Basilis1/97344.ts
-#EXTINF:-1 tvg-id="" tvg-name="EX-YU | Pink Kuvar" tvg-logo="" group-title="EX-YU",EX-YU | Pink Kuvar
-http://hellenic.live:8080/Basilis/Basilis1/97343.ts
-#EXTINF:-1 tvg-id="" tvg-name="EX-YU | Pink LoL" tvg-logo="" group-title="EX-YU",EX-YU | Pink LoL
-http://hellenic.live:8080/Basilis/Basilis1/97342.ts
-#EXTINF:-1 tvg-id="" tvg-name="EX-YU | Pink Show" tvg-logo="" group-title="EX-YU",EX-YU | Pink Show
-http://hellenic.live:8080/Basilis/Basilis1/97341.ts
-#EXTINF:-1 tvg-id="" tvg-name="EX-YU | Pink Pedia" tvg-logo="" group-title="EX-YU",EX-YU | Pink Pedia
-http://hellenic.live:8080/Basilis/Basilis1/97340.ts
-#EXTINF:-1 tvg-id="" tvg-name="EX-YU | City Play" tvg-logo="" group-title="EX-YU",EX-YU | City Play
-http://hellenic.live:8080/Basilis/Basilis1/97339.ts
-#EXTINF:-1 tvg-id="" tvg-name="EX-YU | TV 1000" tvg-logo="" group-title="EX-YU",EX-YU | TV 1000
-http://hellenic.live:8080/Basilis/Basilis1/97338.ts
-#EXTINF:-1 tvg-id="" tvg-name="EX-YU | HBO HD" tvg-logo="" group-title="EX-YU",EX-YU | HBO HD
-http://hellenic.live:8080/Basilis/Basilis1/97337.ts
-#EXTINF:-1 tvg-id="" tvg-name="EX-YU | HBO 2 HD" tvg-logo="" group-title="EX-YU",EX-YU | HBO 2 HD
-http://hellenic.live:8080/Basilis/Basilis1/97336.ts
-#EXTINF:-1 tvg-id="" tvg-name="EX-YU | HBO 3 HD" tvg-logo="" group-title="EX-YU",EX-YU | HBO 3 HD
-http://hellenic.live:8080/Basilis/Basilis1/97335.ts
-#EXTINF:-1 tvg-id="" tvg-name="EX-YU | Cinemax 1" tvg-logo="" group-title="EX-YU",EX-YU | Cinemax 1
-http://hellenic.live:8080/Basilis/Basilis1/97334.ts
-#EXTINF:-1 tvg-id="" tvg-name="EX-YU | Cinemax 2" tvg-logo="" group-title="EX-YU",EX-YU | Cinemax 2
-http://hellenic.live:8080/Basilis/Basilis1/97333.ts
-#EXTINF:-1 tvg-id="" tvg-name="EX-YU | Cinestar Premiere 1" tvg-logo="" group-title="EX-YU",EX-YU | Cinestar Premiere 1
-http://hellenic.live:8080/Basilis/Basilis1/97332.ts
-#EXTINF:-1 tvg-id="" tvg-name="EX-YU | Cinestar Premiere 2" tvg-logo="" group-title="EX-YU",EX-YU | Cinestar Premiere 2
-http://hellenic.live:8080/Basilis/Basilis1/97331.ts
-#EXTINF:-1 tvg-id="" tvg-name="EX-YU | Cinestar" tvg-logo="" group-title="EX-YU",EX-YU | Cinestar
-http://hellenic.live:8080/Basilis/Basilis1/97330.ts
-#EXTINF:-1 tvg-id="" tvg-name="EX-YU | Cinestar Action" tvg-logo="" group-title="EX-YU",EX-YU | Cinestar Action
-http://hellenic.live:8080/Basilis/Basilis1/97329.ts
-#EXTINF:-1 tvg-id="" tvg-name="EX-YU | Klasik TV" tvg-logo="" group-title="EX-YU",EX-YU | Klasik TV
-http://hellenic.live:8080/Basilis/Basilis1/97328.ts
-#EXTINF:-1 tvg-id="" tvg-name="EX-YU | FILMBOX EXTRA" tvg-logo="" group-title="EX-YU",EX-YU | FILMBOX EXTRA
-http://hellenic.live:8080/Basilis/Basilis1/97327.ts
-#EXTINF:-1 tvg-id="" tvg-name="EX-YU | FILMBOX PLUS" tvg-logo="" group-title="EX-YU",EX-YU | FILMBOX PLUS
-http://hellenic.live:8080/Basilis/Basilis1/97326.ts
-#EXTINF:-1 tvg-id="" tvg-name="EX-YU | Kino TV HD" tvg-logo="" group-title="EX-YU",EX-YU | Kino TV HD
-http://hellenic.live:8080/Basilis/Basilis1/97325.ts
-#EXTINF:-1 tvg-id="" tvg-name="EX-YU | Fox TV" tvg-logo="" group-title="EX-YU",EX-YU | Fox TV
-http://hellenic.live:8080/Basilis/Basilis1/97324.ts
-#EXTINF:-1 tvg-id="" tvg-name="EX-YU | Fox Movies" tvg-logo="" group-title="EX-YU",EX-YU | Fox Movies
-http://hellenic.live:8080/Basilis/Basilis1/97323.ts
-#EXTINF:-1 tvg-id="" tvg-name="EX-YU | Fox Crime" tvg-logo="" group-title="EX-YU",EX-YU | Fox Crime
-http://hellenic.live:8080/Basilis/Basilis1/97322.ts
-#EXTINF:-1 tvg-id="" tvg-name="EX-YU | Fox Life" tvg-logo="" group-title="EX-YU",EX-YU | Fox Life
-http://hellenic.live:8080/Basilis/Basilis1/97321.ts
-#EXTINF:-1 tvg-id="" tvg-name="EX-YU | AMC" tvg-logo="" group-title="EX-YU",EX-YU | AMC
-http://hellenic.live:8080/Basilis/Basilis1/97320.ts
-#EXTINF:-1 tvg-id="" tvg-name="EX-YU | AXN" tvg-logo="" group-title="EX-YU",EX-YU | AXN
-http://hellenic.live:8080/Basilis/Basilis1/97319.ts
-#EXTINF:-1 tvg-id="" tvg-name="EX-YU | SciFi" tvg-logo="" group-title="EX-YU",EX-YU | SciFi
-http://hellenic.live:8080/Basilis/Basilis1/97318.ts
-#EXTINF:-1 tvg-id="" tvg-name="EX-YU | CC Extra" tvg-logo="" group-title="EX-YU",EX-YU | CC Extra
-http://hellenic.live:8080/Basilis/Basilis1/97317.ts
-#EXTINF:-1 tvg-id="" tvg-name="EX-YU | Diva" tvg-logo="" group-title="EX-YU",EX-YU | Diva
-http://hellenic.live:8080/Basilis/Basilis1/97316.ts
-#EXTINF:-1 tvg-id="" tvg-name="EX-YU | Entertainment" tvg-logo="" group-title="EX-YU",EX-YU | Entertainment
-http://hellenic.live:8080/Basilis/Basilis1/97315.ts
-#EXTINF:-1 tvg-id="" tvg-name="EX-YU | TLC SRB" tvg-logo="" group-title="EX-YU",EX-YU | TLC SRB
-http://hellenic.live:8080/Basilis/Basilis1/97314.ts
-#EXTINF:-1 tvg-id="" tvg-name="EX-YU | Face TV HD" tvg-logo="" group-title="EX-YU",EX-YU | Face TV HD
-http://hellenic.live:8080/Basilis/Basilis1/97313.ts
-#EXTINF:-1 tvg-id="" tvg-name="EX-YU | Al Jazeera Balkans" tvg-logo="" group-title="EX-YU",EX-YU | Al Jazeera Balkans
-http://hellenic.live:8080/Basilis/Basilis1/97312.ts
-#EXTINF:-1 tvg-id="" tvg-name="EX-YU | Federalna" tvg-logo="" group-title="EX-YU",EX-YU | Federalna
-http://hellenic.live:8080/Basilis/Basilis1/97311.ts
-#EXTINF:-1 tvg-id="" tvg-name="EX-YU | Hayat HD" tvg-logo="" group-title="EX-YU",EX-YU | Hayat HD
-http://hellenic.live:8080/Basilis/Basilis1/97310.ts
-#EXTINF:-1 tvg-id="" tvg-name="EX-YU | Hayat Plus" tvg-logo="" group-title="EX-YU",EX-YU | Hayat Plus
-http://hellenic.live:8080/Basilis/Basilis1/97309.ts
-#EXTINF:-1 tvg-id="" tvg-name="EX-YU | KCN 1" tvg-logo="" group-title="EX-YU",EX-YU | KCN 1
-http://hellenic.live:8080/Basilis/Basilis1/97291.ts
-#EXTINF:-1 tvg-id="" tvg-name="EX-YU | KCN 2" tvg-logo="" group-title="EX-YU",EX-YU | KCN 2
-http://hellenic.live:8080/Basilis/Basilis1/97290.ts
-#EXTINF:-1 tvg-id="" tvg-name="EX-YU | KCN 3" tvg-logo="" group-title="EX-YU",EX-YU | KCN 3
-http://hellenic.live:8080/Basilis/Basilis1/97289.ts
-#EXTINF:-1 tvg-id="" tvg-name="EX-YU | OTV Valentino" tvg-logo="" group-title="EX-YU",EX-YU | OTV Valentino
-http://hellenic.live:8080/Basilis/Basilis1/97288.ts
-#EXTINF:-1 tvg-id="" tvg-name="EX-YU | Hayat" tvg-logo="" group-title="EX-YU",EX-YU | Hayat
-http://hellenic.live:8080/Basilis/Basilis1/97287.ts
-#EXTINF:-1 tvg-id="" tvg-name="EX-YU | BBC Earth HD" tvg-logo="" group-title="EX-YU",EX-YU | BBC Earth HD
-http://hellenic.live:8080/Basilis/Basilis1/97274.ts
-#EXTINF:-1 tvg-id="" tvg-name="EX-YU | Animal Planet HD Hr" tvg-logo="" group-title="EX-YU",EX-YU | Animal Planet HD Hr
-http://hellenic.live:8080/Basilis/Basilis1/97273.ts
-#EXTINF:-1 tvg-id="" tvg-name="EX-YU | 24 Kitchen" tvg-logo="" group-title="EX-YU",EX-YU | 24 Kitchen
-http://hellenic.live:8080/Basilis/Basilis1/97272.ts
-#EXTINF:-1 tvg-id="" tvg-name="EX-YU | Lov i Ribolov" tvg-logo="" group-title="EX-YU",EX-YU | Lov i Ribolov
-http://hellenic.live:8080/Basilis/Basilis1/97271.ts
-#EXTINF:-1 tvg-id="" tvg-name="EX-YU | History Channel HD" tvg-logo="" group-title="EX-YU",EX-YU | History Channel HD
-http://hellenic.live:8080/Basilis/Basilis1/97270.ts
-#EXTINF:-1 tvg-id="" tvg-name="EX-YU | H2 HD" tvg-logo="" group-title="EX-YU",EX-YU | H2 HD
-http://hellenic.live:8080/Basilis/Basilis1/97269.ts
-#EXTINF:-1 tvg-id="" tvg-name="EX-YU | Crime & Investigation" tvg-logo="" group-title="EX-YU",EX-YU | Crime & Investigation
-http://hellenic.live:8080/Basilis/Basilis1/97268.ts
-#EXTINF:-1 tvg-id="" tvg-name="EX-YU | Discovery Channel" tvg-logo="" group-title="EX-YU",EX-YU | Discovery Channel
-http://hellenic.live:8080/Basilis/Basilis1/97267.ts
-#EXTINF:-1 tvg-id="" tvg-name="EX-YU | Discovery ID" tvg-logo="" group-title="EX-YU",EX-YU | Discovery ID
-http://hellenic.live:8080/Basilis/Basilis1/97266.ts
-#EXTINF:-1 tvg-id="" tvg-name="EX-YU | Animal Planet HD Srb" tvg-logo="" group-title="EX-YU",EX-YU | Animal Planet HD Srb
-http://hellenic.live:8080/Basilis/Basilis1/97265.ts
-#EXTINF:-1 tvg-id="" tvg-name="EX-YU | Nat Geo" tvg-logo="" group-title="EX-YU",EX-YU | Nat Geo
-http://hellenic.live:8080/Basilis/Basilis1/97264.ts
-#EXTINF:-1 tvg-id="" tvg-name="EX-YU | Nat Geo Wild" tvg-logo="" group-title="EX-YU",EX-YU | Nat Geo Wild
-http://hellenic.live:8080/Basilis/Basilis1/97263.ts
-#EXTINF:-1 tvg-id="" tvg-name="EX-YU | Travelxp HD" tvg-logo="" group-title="EX-YU",EX-YU | Travelxp HD
-http://hellenic.live:8080/Basilis/Basilis1/97262.ts
-#EXTINF:-1 tvg-id="" tvg-name="EX-YU | Viasat Explorer HD" tvg-logo="" group-title="EX-YU",EX-YU | Viasat Explorer HD
-http://hellenic.live:8080/Basilis/Basilis1/97261.ts
-#EXTINF:-1 tvg-id="" tvg-name="EX-YU | Viasat History HD" tvg-logo="" group-title="EX-YU",EX-YU | Viasat History HD
-http://hellenic.live:8080/Basilis/Basilis1/97260.ts
-#EXTINF:-1 tvg-id="" tvg-name="EX-YU | Viasat Nature" tvg-logo="" group-title="EX-YU",EX-YU | Viasat Nature
-http://hellenic.live:8080/Basilis/Basilis1/97259.ts
-#EXTINF:-1 tvg-id="" tvg-name="EX-YU | Hayatovci" tvg-logo="" group-title="EX-YU",EX-YU | Hayatovci
-http://hellenic.live:8080/Basilis/Basilis1/97258.ts
-#EXTINF:-1 tvg-id="" tvg-name="EX-YU | Sport Klub 1" tvg-logo="" group-title="WORLD SPORTS",EX-YU | Sport Klub 1
-http://hellenic.live:8080/Basilis/Basilis1/97257.ts
-#EXTINF:-1 tvg-id="" tvg-name="EX-YU | Sport Klub 1" tvg-logo="" group-title="EX-YU",EX-YU | Sport Klub 1
-http://hellenic.live:8080/Basilis/Basilis1/97257.ts
-#EXTINF:-1 tvg-id="" tvg-name="EX-YU | Sport Klub 2" tvg-logo="" group-title="WORLD SPORTS",EX-YU | Sport Klub 2
-http://hellenic.live:8080/Basilis/Basilis1/97256.ts
-#EXTINF:-1 tvg-id="" tvg-name="EX-YU | Sport Klub 2" tvg-logo="" group-title="EX-YU",EX-YU | Sport Klub 2
-http://hellenic.live:8080/Basilis/Basilis1/97256.ts
-#EXTINF:-1 tvg-id="" tvg-name="EX-YU | Sport Klub 3" tvg-logo="" group-title="WORLD SPORTS",EX-YU | Sport Klub 3
-http://hellenic.live:8080/Basilis/Basilis1/97255.ts
-#EXTINF:-1 tvg-id="" tvg-name="EX-YU | Sport Klub 3" tvg-logo="" group-title="EX-YU",EX-YU | Sport Klub 3
-http://hellenic.live:8080/Basilis/Basilis1/97255.ts
-#EXTINF:-1 tvg-id="" tvg-name="EX-YU | Sport Klub 4" tvg-logo="" group-title="WORLD SPORTS",EX-YU | Sport Klub 4
-http://hellenic.live:8080/Basilis/Basilis1/97254.ts
-#EXTINF:-1 tvg-id="" tvg-name="EX-YU | Sport Klub 4" tvg-logo="" group-title="EX-YU",EX-YU | Sport Klub 4
-http://hellenic.live:8080/Basilis/Basilis1/97254.ts
-#EXTINF:-1 tvg-id="" tvg-name="EX-YU | Sport Klub 5" tvg-logo="" group-title="WORLD SPORTS",EX-YU | Sport Klub 5
-http://hellenic.live:8080/Basilis/Basilis1/97253.ts
-#EXTINF:-1 tvg-id="" tvg-name="EX-YU | Sport Klub 5" tvg-logo="" group-title="EX-YU",EX-YU | Sport Klub 5
-http://hellenic.live:8080/Basilis/Basilis1/97253.ts
-#EXTINF:-1 tvg-id="" tvg-name="EX-YU | Sport Klub 6" tvg-logo="" group-title="WORLD SPORTS",EX-YU | Sport Klub 6
-http://hellenic.live:8080/Basilis/Basilis1/97252.ts
-#EXTINF:-1 tvg-id="" tvg-name="EX-YU | Sport Klub 6" tvg-logo="" group-title="EX-YU",EX-YU | Sport Klub 6
-http://hellenic.live:8080/Basilis/Basilis1/97252.ts
-#EXTINF:-1 tvg-id="" tvg-name="EX-YU | Eurosport 1" tvg-logo="" group-title="WORLD SPORTS",EX-YU | Eurosport 1
-http://hellenic.live:8080/Basilis/Basilis1/97251.ts
-#EXTINF:-1 tvg-id="" tvg-name="EX-YU | Eurosport 1" tvg-logo="" group-title="EX-YU",EX-YU | Eurosport 1
-http://hellenic.live:8080/Basilis/Basilis1/97251.ts
-#EXTINF:-1 tvg-id="" tvg-name="EX-YU | Eurosport 2" tvg-logo="" group-title="WORLD SPORTS",EX-YU | Eurosport 2
-http://hellenic.live:8080/Basilis/Basilis1/97250.ts
-#EXTINF:-1 tvg-id="" tvg-name="EX-YU | Eurosport 2" tvg-logo="" group-title="EX-YU",EX-YU | Eurosport 2
-http://hellenic.live:8080/Basilis/Basilis1/97250.ts
-#EXTINF:-1 tvg-id="" tvg-name="EX-YU | Arena Sport 1" tvg-logo="" group-title="WORLD SPORTS",EX-YU | Arena Sport 1
-http://hellenic.live:8080/Basilis/Basilis1/97249.ts
-#EXTINF:-1 tvg-id="" tvg-name="EX-YU | Arena Sport 1" tvg-logo="" group-title="EX-YU",EX-YU | Arena Sport 1
-http://hellenic.live:8080/Basilis/Basilis1/97249.ts
-#EXTINF:-1 tvg-id="" tvg-name="EX-YU | Arena Sport 2" tvg-logo="" group-title="WORLD SPORTS",EX-YU | Arena Sport 2
-http://hellenic.live:8080/Basilis/Basilis1/97248.ts
-#EXTINF:-1 tvg-id="" tvg-name="EX-YU | Arena Sport 2" tvg-logo="" group-title="EX-YU",EX-YU | Arena Sport 2
-http://hellenic.live:8080/Basilis/Basilis1/97248.ts
-#EXTINF:-1 tvg-id="" tvg-name="EX-YU | Arena Sport 3" tvg-logo="" group-title="WORLD SPORTS",EX-YU | Arena Sport 3
-http://hellenic.live:8080/Basilis/Basilis1/97247.ts
-#EXTINF:-1 tvg-id="" tvg-name="EX-YU | Arena Sport 3" tvg-logo="" group-title="EX-YU",EX-YU | Arena Sport 3
-http://hellenic.live:8080/Basilis/Basilis1/97247.ts
-#EXTINF:-1 tvg-id="" tvg-name="EX-YU | Arena Sport 4" tvg-logo="" group-title="WORLD SPORTS",EX-YU | Arena Sport 4
-http://hellenic.live:8080/Basilis/Basilis1/97246.ts
-#EXTINF:-1 tvg-id="" tvg-name="EX-YU | Arena Sport 4" tvg-logo="" group-title="EX-YU",EX-YU | Arena Sport 4
-http://hellenic.live:8080/Basilis/Basilis1/97246.ts
-#EXTINF:-1 tvg-id="" tvg-name="EX-YU | Arena Sport 5" tvg-logo="" group-title="WORLD SPORTS",EX-YU | Arena Sport 5
-http://hellenic.live:8080/Basilis/Basilis1/97245.ts
-#EXTINF:-1 tvg-id="" tvg-name="EX-YU | Arena Sport 5" tvg-logo="" group-title="EX-YU",EX-YU | Arena Sport 5
-http://hellenic.live:8080/Basilis/Basilis1/97245.ts
+#EXTM3U
+#EXTINF:-1,NPO 1 HD NL
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/13128
+#EXTINF:-1,NPO 1 NL
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/5131
+#EXTINF:-1,NPO 2 FHD NL
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/6466
+#EXTINF:-1,NPO 2 HD NL
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/5130
+#EXTINF:-1,NPO 3 HD NL
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/6465
+#EXTINF:-1,NPO 3 FHD NL
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/5129
+#EXTINF:-1,NPO 1 Extra NL
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/11447
+#EXTINF:-1,NPO Politiek NL
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/5126
+#EXTINF:-1,RTL 4 FHD NL
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/12820
+#EXTINF:-1,RTL 4 HD NL
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/11403
+#EXTINF:-1,RTL 4 NL
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/5124
+#EXTINF:-1,RTL 5 FHD NL
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/6464
+#EXTINF:-1,RTL 5 HD NL
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/11402
+#EXTINF:-1,RTL 5 NL
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/5123
+#EXTINF:-1,SBS 6 FHD NL
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/6462
+#EXTINF:-1,SBS 6 HD NL
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/5116
+#EXTINF:-1,Net 5 FHD NL
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/5134
+#EXTINF:-1,Net 5 HD NL
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/6468
+#EXTINF:-1,RTL 7 FHD NL
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/5122
+#EXTINF:-1,RTL 7 HD NL
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/11401
+#EXTINF:-1,RTL 8 FHD NL
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/12821
+#EXTINF:-1,RTL 8 NL
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/5121
+#EXTINF:-1,SBS 9 HD NL
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/5115
+#EXTINF:-1,AT5 NL
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/5162
+#EXTINF:-1,L1 Limburg NL
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/11419
+#EXTINF:-1,Omroep Brabant TV FHD NL
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/11414
+#EXTINF:-1,Omroep Gold HD NL
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/11393
+#EXTINF:-1,Omroep Flevoland NL
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/11413
+#EXTINF:-1,Omroep Zeeland NL
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/11409
+#EXTINF:-1,Omrop Fryslan FHD NL
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/11408
+#EXTINF:-1,RTV 7 HD NL
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/11399
+#EXTINF:-1,RTV Drenthe NL
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/5117
+#EXTINF:-1,RTV Noord NL
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/13107
+#EXTINF:-1,RTV Connect NL
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/11388
+#EXTINF:-1,TV Oost NL
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/5104
+#EXTINF:-1,TV Rijnmond NL
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/11390
+#EXTINF:-1,Family7 NL
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/11422
+#EXTINF:-1,✽✽⭒ NL Sports ⭒✽✽
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/683257
+#EXTINF:-1,Ziggo Sport HD NL
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/11387
+#EXTINF:-1,Ziggo Sport Tennis FHD NL
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/625239
+#EXTINF:-1,Ziggo Sport Voetbal HD NL
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/5112
+#EXTINF:-1,Ziggo Sport Golf FHD NL
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/5114
+#EXTINF:-1,Ziggo Sport Golf HD NL
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/6460
+#EXTINF:-1,Ziggo Sport Racing FHD NL
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/13119
+#EXTINF:-1,Ziggo Sport Racing HD NL
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/5111
+#EXTINF:-1,Ziggo Sport Select FHD NL
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/53267
+#EXTINF:-1,Ziggo Sport Select HD NL
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/5113
+#EXTINF:-1,Ziggo Sport Docu FHD NL
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/5110
+#EXTINF:-1,ESPN FHD NL
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/6487
+#EXTINF:-1,ESPN HD NL
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/5143
+#EXTINF:-1,ESPN 2 FHD NL
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/6486
+#EXTINF:-1,ESPN 2 HD NL
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/5142
+#EXTINF:-1,ESPN 3 FHD NL
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/6485
+#EXTINF:-1,ESPN 3 HD NL
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/5141
+#EXTINF:-1,ESPN 4 FHD NL
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/64848
+#EXTINF:-1,ESPN 4 HD NL
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/514522
+#EXTINF:-1,Eurosport 1 FHD NL
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/11444
+#EXTINF:-1,Eurosport 1 HD NL
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/11445
+#EXTINF:-1,Eurosport 2 FHD NL
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/11443
+#EXTINF:-1,Extreme Sports NL
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/11442
+#EXTINF:-1,✽✽⭒ NL Movies & Series ⭒✽✽
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/683258
+#EXTINF:-1,Film 1 Premiere FHD NL
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/6490
+#EXTINF:-1,Film 1 Premiere HD NL
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/5147
+#EXTINF:-1,Film 1 Family NL
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/5148
+#EXTINF:-1,Film 1 Action FHD NL
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/6492
+#EXTINF:-1,Film 1 Action NL
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/5149
+#EXTINF:-1,Film 1 Drama FHD NL
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/13122
+#EXTINF:-1,Film 1 Drama NL
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/5146
+#EXTINF:-1,Comedy Central NL
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/5158
+#EXTINF:-1,Comedy Central Extra NL
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/5157
+#EXTINF:-1,RTL Lounge NL
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/5120
+#EXTINF:-1,RTL Z NL
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/5118
+#EXTINF:-1,RTL Crime HD NL
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/11435
+#EXTINF:-1,CBS Reality NL
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/11427
+#EXTINF:-1,Fox FHD NL
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/5144
+#EXTINF:-1,Fox HD NL
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/6489
+#EXTINF:-1,Shorts TV HD NL
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/5105
+#EXTINF:-1,ONS NL
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/11407
+#EXTINF:-1,✽✽⭒ NL Documentary ⭒✽✽
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/683259
+#EXTINF:-1,Discovery Channel NL
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/5155
+#EXTINF:-1,Investigation Discovery FHD NL
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/5154
+#EXTINF:-1,Discovery Science HD NL
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/11426
+#EXTINF:-1,National Geographic FHD NL
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/12818
+#EXTINF:-1,National Geographic HD NL
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/5136
+#EXTINF:-1,Nat Geo Wild FHD NL
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/5135
+#EXTINF:-1,Nat Geo Wild HD NL
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/13116
+#EXTINF:-1,Animal Planet HD NL
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/11438
+#EXTINF:-1,Spike HD NL
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/13125
+#EXTINF:-1,Crime and Investigation NL
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/5159
+#EXTINF:-1,BBC First HD NL
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/648286
+#EXTINF:-1,History FHD NL
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/11439
+#EXTINF:-1,History HD NL
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/11440
+#EXTINF:-1,Horse & Country TV NL
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/11421
+#EXTINF:-1,24 Kitchen HD NL
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/5164
+#EXTINF:-1,E! Entertainment HD NL
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/13113
+#EXTINF:-1,TLC NL
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/5107
+#EXTINF:-1,✽✽⭒ NL Children ⭒✽✽
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/683260
+#EXTINF:-1,Baby TV NL
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/5163
+#EXTINF:-1,Disney Channel FHD NL
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/5153
+#EXTINF:-1,Disney XD FHD NL
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/6425
+#EXTINF:-1,Nickelodeon NL
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/5133
+#EXTINF:-1,NickToons NL
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/5132
+#EXTINF:-1,Nick JR NL
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/11433
+#EXTINF:-1,Cartoon Network NL
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/5160
+#EXTINF:-1,Boomerang NL
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/5161
+#EXTINF:-1,RTL Telekids NL
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/5119
+#EXTINF:-1,Pebble TV NL
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/11406
+#EXTINF:-1,✽✽⭒ NL Music ⭒✽✽
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/683261
+#EXTINF:-1,MTV Hits NL
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/5103
+#EXTINF:-1,Xite HD NL
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/5101
+#EXTINF:-1,SLAM! NL
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/11396
+#EXTINF:-1,192 TV NL
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/11446
+#EXTINF:-1,TV Oranje NL
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/11391
+#EXTINF:-1,Nick Music NL
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/11434
+#EXTINF:-1,Stingray LiteTV NL
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/11395
+#EXTINF:-1,Mezzo NL
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/11418
+#EXTINF:-1,IConcerts NL
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/11420
+#EXTINF:-1,DJazz TV NL
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/11423
