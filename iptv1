@@ -1,3 +1,4 @@
+Access-Control-Allow-Origin: * 
 #EXTM3U
 #EXTINF:-1,NPO 1 HD NL
 http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/13128
